@@ -1,4 +1,4 @@
-The dataset is represented by details of many AirBnb's across Europe such as prices, location coordinates, number of rooms etc.
+The dataset is represented by details of many Airbnb's across Europe such as prices, location coordinates, number of rooms etc.
 
 I have employed multiple libraries to create static and interractive plots and better visualize the data (pandas, seaborn, matplotlib, plotly, folium).
 
